@@ -14,6 +14,18 @@
 			<key>sourceDirectory</key>
 			<string></string>
 		</dict>
+		<dict>
+			<key>filename</key>
+			<string>ex31.rb</string>
+			<key>lastUsed</key>
+			<date>2013-06-30T13:24:31Z</date>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>ex34.rb</string>
+			<key>lastUsed</key>
+			<date>2013-07-14T13:31:54Z</date>
+		</dict>
 	</array>
 	<key>fileHierarchyDrawerWidth</key>
 	<integer>200</integer>
@@ -22,6 +34,6 @@
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{123, 54}, {722, 807}}</string>
+	<string>{{718, 71}, {722, 807}}</string>
 </dict>
 </plist>
